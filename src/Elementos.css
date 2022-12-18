@@ -108,4 +108,30 @@ input{
 	padding: 20vh;
 	background-image: url("./images/backgwhite.png");
 }
+
+@media (max-width: 640px) {
+	.linha{
+	 margin-left: -130px;
+	 width:600%;
+	 margin-top: 2px;
+
+	}
+
+	.myButton-new{
+		margin-left: -20px;
+		display: flex;
+	}
+
+	input{
+		margin-left: -80px;
+	}
+
+	.myButton-cancel{
+		margin-left: 1px;
+	}
+	.myButton-cadastro{
+		margin-left: 1px;
+	}
+  
+  }
         
