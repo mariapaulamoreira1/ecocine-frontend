@@ -1,0 +1,33 @@
+*{
+    padding:0;
+    margin:0;
+    font-family: "Lucida Console", "Courier New", monospace;
+    text-decoration: none;
+    
+}
+
+ul li{
+  float: left;
+  text-decoration: none;
+  color: #f2f2f2;
+  text-align: center;
+  margin-left: 20vw;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 17px;
+  overflow: hidden;
+}
+
+a { color: inherit; } 
+
+.menu:hover{
+    color:#f2f2f2;
+    background-color: rgba(255, 255, 255, 0.297);
+    border-radius: 5px;
+    padding: 10px;
+
+}
+
+.navbar{
+  background-color: rgb(2, 2, 2);
+}
