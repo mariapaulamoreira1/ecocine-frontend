@@ -13,7 +13,6 @@ export default function Sobre() {
       <h3>Front-end</h3>
       <p>React js</p>
     
-    <h4>Made by MARIASDB</h4>
     </div>
   )
 }
