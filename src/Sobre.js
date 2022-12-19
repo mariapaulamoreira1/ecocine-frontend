@@ -8,7 +8,7 @@ export default function Sobre() {
       <p>Trabalho 2 de Desenvolvimento de Sistemas WEB</p>
       <h3>Back-end</h3>
       <p>Foi utilizado o ElephantSQL como DB</p>
-      <p>Express API </p>
+      <p>Express </p>
 
       <h3>Front-end</h3>
       <p>Framework React js</p>
